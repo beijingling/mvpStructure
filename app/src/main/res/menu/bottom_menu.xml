@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab_clip"
+        android:icon="@drawable/ic_clip_selected"
+        android:title="@string/tab_home" />
+
+    <item android:id="@+id/tab_template"
+        android:icon="@drawable/template_selected"
+        android:title="@string/tab_cate" />
+
+    <item android:id="@+id/tab_discovery"
+        android:icon="@drawable/ic_discover_selected"
+        android:title="@string/tab_find" />
+
+    <item android:id="@+id/tab_mine"
+        android:icon="@drawable/ic_mine_selected"
+        android:title="@string/tab_my" />
+</menu>
